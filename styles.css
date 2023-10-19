@@ -6,6 +6,7 @@ background-repeat: no-repeat;
             margin: 0;
             display: flex;
             justify-content: center;
+            line-height: 1cm;
           
             height: 94vh;
 
